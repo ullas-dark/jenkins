@@ -1,9 +1,10 @@
 public class test {
   public static void main(String[] args) {
-    String name = "Alice";
+    String name = "mighty rajuuuuu";
     int age = 25;
     double score = 89.5;
 
+    System.out.println("damnnn");
     System.out.printf("Name: %s%n", name);
     System.out.printf("Age: %d years%n", age);
     System.out.printf("Score: %.1f%n", score); // Fixed variable and format specifier
